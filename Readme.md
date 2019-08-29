@@ -2,11 +2,12 @@
 
 ```
 conda create -n Tensortest Python=3.7
+#just create this once and istall everything need afyer activating it
 conda activate Tensortest
 conda install tensorflow
 conda install jupyter
 conda install keras
-```
+# once you created this environment, you just need to activate it when you need it and everything you installated will be in it!.```
 
 # Checking it works
 
